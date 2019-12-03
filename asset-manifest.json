@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digimons/static/css/main.89c2ada7.chunk.css",
+    "main.js": "/digimons/static/js/main.7b037a50.chunk.js",
+    "main.js.map": "/digimons/static/js/main.7b037a50.chunk.js.map",
+    "runtime-main.js": "/digimons/static/js/runtime-main.215d224f.js",
+    "runtime-main.js.map": "/digimons/static/js/runtime-main.215d224f.js.map",
+    "static/js/2.cb664ee3.chunk.js": "/digimons/static/js/2.cb664ee3.chunk.js",
+    "static/js/2.cb664ee3.chunk.js.map": "/digimons/static/js/2.cb664ee3.chunk.js.map",
+    "index.html": "/digimons/index.html",
+    "precache-manifest.4bfabd33dea9a1bc8971b06fdcf756f6.js": "/digimons/precache-manifest.4bfabd33dea9a1bc8971b06fdcf756f6.js",
+    "service-worker.js": "/digimons/service-worker.js",
+    "static/css/main.89c2ada7.chunk.css.map": "/digimons/static/css/main.89c2ada7.chunk.css.map",
+    "static/media/logo.png": "/digimons/static/media/logo.631c4cfe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215d224f.js",
+    "static/js/2.cb664ee3.chunk.js",
+    "static/css/main.89c2ada7.chunk.css",
+    "static/js/main.7b037a50.chunk.js"
+  ]
+}
